@@ -1,1 +1,78 @@
 # ass.gn![Images](https://user-images.githubusercontent.com/123546945/225890658-8edbaaab-e583-40c8-9e4e-29804646f8ea.jpg)
+<HTML>
+<HEAD>
+<link rel="stylesheet" href="EBS/online.css">
+<TITLE>Welcome to E.B.S Electronic Shop.
+
+</TITLE>
+</HEAD>
+
+<BODY Bgcolor ="11fff" Text = "Navy">
+<center><H1>E.B.S Electronic Shop </H1></center>
+<H2 align = "center"><I>Welcome</I></H2>
+
+<HR color = "magenta" size = "5"><Marquee behavior="alternate">Welcome to E.B.S Electronic Shop </Marquee>
+
+<center><a href="#Images">VIEW Images</a> | <a href="#audio">LISTEN TO AUDIO</a> | <a href="#zetech"> READ AMBITION</a></center>
+<p><B><H1>Welcome to E.B.S Electronic Shop </B></H1>
+
+<img src="Images.jpg" border="7" width="1200" height="600" title="Images" alt="Images">
+<p><a href="shop.html"> VISIT E.B.S SHOP </a>
+
+<a name="video"><p align="center"><video width="500px" height="500px" controls="controls"/>
+<source src="CPU cooler fan.mp4" type="video/mp4">
+</video>
+
+<p align="center"><a href="CPU cooler fan.mp4">CLICK ME TO VIEW</a>
+<center>
+<br>
+<a name="audio">
+<figure>
+<figcaption>Listen to My Audio:</figcaption>
+<audio controls src="E.B.S.mp3">
+</audio>
+</figure>
+</center>
+
+<p align="center"><iframe width="560" height="315" src="img.jpg" frameborder="0" allowfullscreen></iframe>
+</iframe>
+
+<p style="color:000011">E.B.S Electronic Shop.
+<p>Welcome to my online electronics shop, where you can find a wide variety of high-quality electronic products at competitive prices. The shop specializes in offering the latest and greatest gadgets and accessories, including smartphones, laptops, wireless mouses among more products.
+	
+<p><B>Customer's Feedback</B>
+
+<a name="Shop">
+	<P>
+<form>
+<table border="0" cellspacing="0" cellpadding="2">
+<tr>
+<th>Name:</th>
+<th><input type="text" name="First Name"></th>
+</tr>
+<tr>
+<th>Contact:</th>
+<th><input type="mumber" name="number"></th>
+</tr>
+<tr>
+<th>Email:</th>
+<th><input type="text" name="Email"></th>
+</tr>
+<tr>
+<th>Age:</th>
+<th><input type="number" name="number"></th>
+</tr>
+</table>
+
+</p>
+Gender   :<br>
+Male<input type="Radio" name="gender"><br>
+Female<input type="Radio" name="gender"><br>
+<textarea rows="10" cols="40" name="text"></textarea>
+<p>
+	<input type="submit" value="Submit">
+</form>
+<P align = "right">Date: 02<sup>nd</sup> March 2023
+</BODY>
+
+</HTML>
